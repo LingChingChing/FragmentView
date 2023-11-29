@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FragmentView</string>
+    <string name="j">Sakura</string>
+    <string name="j_detail">
+        ID: 1\n\nHo ten: Sakura\n\nSDT: 1236
+    </string>
+
+    <string name="s">Shinichi Kudo</string>
+    <string name="s_detail">
+        ID: 2\n\nHo ten: Shinichi Kudo\n\nSDT: 1456
+    </string>
+
+    <string name="m">Ran Mori</string>
+    <string name="m_detail">
+        ID: 3\n\nHo ten: Ran Mori\n\nSDT: 4256
+    </string>
+
+    <string name="h">Conan Doyle</string>
+    <string name="h_detail">
+        ID: 4\n\nHo ten: Conan Doyle\n\nSDT: 2856
+    </string>
+
+    <string name="k">Haibara Ai</string>
+    <string name="k_detail">
+        ID: 5\n\nHo ten: Haibara Ai\n\nSDT: 0932
+    </string>
+
+    <string name="h2">Gojo Satouro</string>
+    <string name="h2_detail">
+        ID: 6\n\nHo ten: Gojo Satouro\n\nSDT: 8452
+    </string>
+
+    <string name="f">Elsa</string>
+    <string name="f_detail">
+        ID: 7\n\nHo ten: Elsa\n\nSDT: 0952
+    </string>
+
+    <string name="e">Hatori Heyji</string>
+    <string name="e_detail">
+        ID: 8\n\nHo ten: Hatori Heyji\n\nSDT: 7432
+    </string>
+</resources>
